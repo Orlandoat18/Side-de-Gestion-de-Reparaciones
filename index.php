@@ -142,9 +142,10 @@ $recambiosPagina = array_slice(
     $elementosPorPagina
 );
 
-// ======================================================
+
+
 // BLOQUE 4 - BÚFER DE SALIDA
-// ======================================================
+
 
 ob_start();
 
